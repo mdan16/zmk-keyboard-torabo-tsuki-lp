@@ -20,6 +20,11 @@
             key-positions = <28 29>;
             layers = <2>;
         };
+
+        mouse_scroll {
+            bindings = <&mo 4>;
+            key-positions = <48 49>;
+        };
     };
 
     keymap {
