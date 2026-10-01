@@ -23,7 +23,7 @@
 
         mouse_scroll {
             bindings = <&mo 4>;
-            key-positions = <48 49>;
+            key-positions = <34 33>;
         };
     };
 
