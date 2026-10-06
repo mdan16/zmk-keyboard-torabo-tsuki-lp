@@ -20,6 +20,11 @@
             bindings = <&mo 4>;
             key-positions = <28 29>;
         };
+
+        esc {
+            bindings = <&kp ESC>;
+            key-positions = <0 1>;
+        };
     };
 
     behaviors {
